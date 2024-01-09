@@ -1,0 +1,95 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-font name="Helvetica, sans-serif" />
+      <mj-all font-family="Helvetica, sans-serif" />
+      <mj-text font-weight="300" align="left" color="#000" font-size="16px" line-height="22px" padding-left="40px" />
+      <mj-image padding="0" />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+    <mj-style> .footer-link { color: #142900 !important; } </mj-style>
+  </mj-head>
+  <mj-body background-color="#EFEFEC" width="600px">
+    <!-- HEADER IMAGE -->
+    <mj-section padding="0px 0px 25px 0px">
+      <mj-column>
+        <mj-image src="https://i.postimg.cc/Jnq6f1LD/header.png" href="https://www.alltrails.com" alt="man standing on a mountain" />
+        <mj-text font-weight="500" font-size="26px" padding-top="35px">Together, we spent 73 million</mj-text>
+        <mj-text font-weight="500" font-size="26px" padding="0">hours outside</mj-text>
+        <mj-text padding-top="20px" padding-right="45px">All that trail time adds up to 8,333 years outside! Let's take a look at how we got out there in 2023.</mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- REVIEW SECTION -->
+    <mj-section background-color="#DEE6D9">
+      <mj-column>
+        <mj-text color="#7C8673" font-size="11px" font-weight="600" text-transform="uppercase">inspiring each other</mj-text>
+        <mj-text font-weight="500" font-size="26px" padding-top="0">Together, we shared </mj-text>
+        <mj-text font-weight="500" font-size="26px" padding-top="0">13 million photos</mj-text>
+        <mj-image src="https://i.postimg.cc/wvH441SY/collage-1.png" width="522px" padding="10px 0 15px 0" />
+        <mj-text align="right" font-weight="500" font-size="26px" padding-right="38px">...and wrote 1.9</mj-text>
+        <mj-text align="right" font-weight="500" font-size="26px" padding-top="0" padding-right="38px">million reviews.</mj-text>
+        <mj-image src="https://i.postimg.cc/52hRv7g0/reviews.png" width="515px" padding="0px 0px 15px 0px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- TRENDING SECTION -->
+    <mj-section>
+      <mj-column>
+        <mj-text color="#7C8673" font-size="11px" font-weight="600" text-transform="uppercase">trending trails</mj-text>
+        <mj-text font-weight="500" font-size="26px" padding-top="0">Our community recorded</mj-text>
+        <mj-text font-weight="500" font-size="26px" padding-top="0">over 268 million miles</mj-text>
+        <mj-text font-size="13px">That's 10,763 times around the Earth!</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-wrapper background-color="#fff" padding="0px 20px 40px 20px">
+      <mj-section background-color="#F6F6F4">
+        <mj-column>
+          <mj-text font-size="13px" padding-left="22px">Here are some <span style="font-weight:700;">trails that grew in popularity</span> in 2023</mj-text>
+          <mj-image src="https://i.postimg.cc/cJf5cRkc/map.png" width="500px" padding="10px 0px 25px 0px"></mj-image>
+          <mj-button align="left" background-color="#E3E3E3" border-radius="20px" color="#000" font-size="15px" font-weight="700" inner-padding="12px 20px" href="https://www.alltrails.com/explore?b_tl_lat=41.161399501017286&b_tl_lng=-74.3733670715332&b_br_lat=40.85724950420189&b_br_lng=-73.64243292846673">Explore top trails</mj-button>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <!-- THANK YOU SECTION -->
+    <mj-section background-color="#142900">
+      <mj-column>
+        <mj-image src="https://i.postimg.cc/pLhSmbD4/flag.png" width="50px" align="left" padding-left="30px" alt="green and white flag"></mj-image>
+        <mj-text color="#fff" font-size="26px" padding-top="12px">Thanks for exploring with us</mj-text>
+        <mj-text color="#fff" font-size="26px" padding="0">this year</mj-text>
+        <mj-text color="#fff" padding-top="30px">Let's get outside in 2024. See you on the trail!</mj-text>
+        <mj-button align="left" background-color="#142900" border-radius="20px" border="2px solid #fff" color="#fff" font-size="15px" font-weight="500" padding-left="35px" inner-padding="12px 20px" href="https://www.alltrails.com/explore?b_tl_lat=41.161399501017286&b_tl_lng=-74.3733670715332&b_br_lat=40.85724950420189&b_br_lng=-73.64243292846673">Explore our 420k+ trails</mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- SOCIALS SECTION -->
+    <mj-section background-color="#EEF9EF">
+      <mj-column>
+        <mj-text color="#142900" font-size="12px">Not seeing your stats?<br>Be sure to use Navigate to record your stats for a complete picture of 2024.</mj-text>
+        <mj-text color="#142900" font-size="12px" font-weight="600" padding="0px"><a href="https://alltrails.com" class="footer-link">Navigate now</a></mj-text>
+        <mj-image src="https://i.postimg.cc/WbfKpbJ0/arrow.png" width="50px" align="left" padding-left="35px" padding-top="10px" href="https://alltrails.com"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#EEF9EF" padding-top="0px">
+      <mj-column>
+        <mj-text color="#142900" font-weight="600" font-size="14px">Get inspired on social</mj-text>
+        <mj-social icon-size="30px" mode="horizontal" align="left" padding-left="37px">
+          <mj-social-element name="instagram" href="https://www.instagram.com/alltrails/" background-color="#142900"></mj-social-element>
+          <mj-social-element name="facebook" href="https://www.facebook.com/AllTrails" background-color="#142900"></mj-social-element>
+          <mj-social-element name="twitter" href="https://twitter.com/alltrails" background-color="#142900"></mj-social-element>
+          <mj-social-element name="linkedin" href="https://linkedin.com" background-color="#142900"></mj-social-element>
+        </mj-social>
+        <mj-divider border-width="1px" padding="20px 40px 0px 40px" border-color="#142900" />
+      </mj-column>
+    </mj-section>
+    <!-- FOOTER -->
+    <mj-section background-color="#EEF9EF" padding="0px 0px 30px 0px">
+      <mj-column>
+        <mj-text color="#142900" font-weight="600" font-size="11px">Need help? Try our <a href="#" class="footer-link">Help Center</a> or reach out to <a href="mailto:support@alltrails.com" class="footer-link">support@alltrails.com</a></mj-text>
+        <mj-text font-size="11px" color="#142900" padding-top="0px" padding-bottom="0px">By continuing to use AllTrails, you are accepting our</mj-text>
+        <mj-text font-size="11px" font-weight="600" color="#142900" padding-top="0px"><a href="https://www.alltrails.com/terms" class="footer-link">Terms of Service</a> and <a href="https://privacy.alltrails.com/policies/en-US" class="footer-link">Privacy Policy</a></mj-text>
+        <mj-text color="#142900" font-size="11px" font-weight="600" padding-bottom="0px">AllTrails LLC</mj-text>
+        <mj-text color="#142900" font-size="11px" padding-top="0px" padding-bottom="0px">530 Bush Street, Suite 900, Sanfrancisco, CA 94108</mj-text>
+        <mj-text color="#142900" font-size="11px" padding-top="0px" padding-bottom="0px">Copyright &copy AllTrailsLLC. All rights reserved. </mj-text>
+        <mj-text font-size="11px">Manage your preferences or unsubscribe <a href="https://alltrails.com" class="footer-link"><span style="font-weight:600;">here</span></a></mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
